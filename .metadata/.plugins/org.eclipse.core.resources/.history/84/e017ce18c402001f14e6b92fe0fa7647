@@ -1,8 +1,0 @@
-package com.kh.FileEx;
-
-public class FileWriterPre {
-	private void name() {
-		// Hello World.txt 파일에 나는 자바가 너무 재밌다 라는 내용을 작성하고
-		// 파일을 저장하기
-	}
-}

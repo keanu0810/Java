@@ -1,8 +1,0 @@
-package com.kh.SocketPre;
-
-
-
-public class ClinePre {
-	public static void main(String[] args) {
-
-}

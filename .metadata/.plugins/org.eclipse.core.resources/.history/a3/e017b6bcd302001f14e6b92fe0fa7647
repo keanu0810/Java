@@ -1,8 +1,0 @@
-package com.kh.practice.file.com.kh.practice.file.runiew;
-
-public class Run {
-	public static void main(String[] args) {
-		ScoreMenu menu = new ScoreMenu();
-		menu.mainMenu();
-	}
-}
