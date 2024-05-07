@@ -1,0 +1,9 @@
+package com.kh.FileEx;
+/*
+ FileWriter : 파일에 문자를 쓰기 위한 객체 
+ * */
+public class FileWriteEx {
+	public static void main(String[] args) {
+		
+	}
+}

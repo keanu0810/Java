@@ -1,0 +1,10 @@
+package sup1.controller;
+
+public class TestSup1 {
+
+	
+		//스캐너 이용하기
+		//국어점수 영어점수 수학점수 입력 받고
+	
+	//Score 점수 = new Score (국어, 영어, 수학
+}

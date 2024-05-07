@@ -1,0 +1,19 @@
+package com.kh.test.main;
+
+import java.util.Scanner;
+
+public class Test6 {
+	public static void main(String[] args) {
+		/*
+		 키보드로 1개 정수형(int)
+		 데이터를 입력받 아 1부터 5까지 일때만 해당 숫자에 해당하는 결과를 출력한다
+		 단,switch문을 이용한다.
+		 * */
+		
+		Scanner 스캐너 = new Scanner(System.in);
+		System.out.println("정수를 입력하세요");
+		int 정수 = 스캐너.nextInt();  
+		switch
+		
+	}
+}

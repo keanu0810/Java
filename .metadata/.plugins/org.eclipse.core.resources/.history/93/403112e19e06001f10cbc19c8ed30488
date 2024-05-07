@@ -1,0 +1,14 @@
+package com.kh.test.main;
+
+public class Test2 {
+	public static void main(String[] args) {
+		
+		for(int ´Ü =2; ´Ü <-5; ´Ü++) {
+			
+			for(int i = 1 ; i<=9; i++) {
+				System.out.println("2* + "+ i +"  = "+2*1);
+				
+			}
+		}
+	}
+}

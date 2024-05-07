@@ -1,0 +1,7 @@
+package ncs.test10;
+
+public class BookStore {
+	public static void main(String[] args) {
+		Book Ã¥Á¤º¸ = new Book( "HTML5", 3000.0, 15.0);
+	}
+}

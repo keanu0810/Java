@@ -1,0 +1,11 @@
+package com.kh.test.main;
+
+public class Test4 {
+	public static void main(String[] args) {
+		/*
+		 1부터 9까지 값을 스캐너로 각각 입력받아
+		 
+		 더하기 뺴기 곱하기 몫 출력하기
+		 * */
+	}
+}

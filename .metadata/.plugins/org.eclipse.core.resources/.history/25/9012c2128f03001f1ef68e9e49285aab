@@ -1,0 +1,8 @@
+package com.kh.SynchronizdEx;
+/*
+ Synchronizd
+ 	멀티 스레드 환경에서 공유하는 데이터에 동기화를 제공
+ * */
+public class SynchronizdEx {
+
+}

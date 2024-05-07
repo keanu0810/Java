@@ -1,0 +1,22 @@
+package sup2.controller;
+
+import java.util.Scanner;
+
+public class Test5sup2 {
+	public static void main(String[] args) {
+		Scanner 스캐너 = new Scanner(System.in);
+		System.out.println("이름 : ");
+		String 이름 = 스캐너.nextLine();
+		System.out.println("학년 : ");
+		String 학년 = 스캐너.nextInt();
+		System.out.println("반 : ");
+		String 반 = 스캐너.nextInt();
+		System.out.println("번호 : ");
+		String 번호 = 스캐너.nextInt();
+		System.out.println("성별 : ");
+		String 성별 = 스캐너.nextInt();
+		System.out.println("성적 : ");
+		String 성적 = 스캐너.nextInt();
+		Student 학생 = new Student( 이름, 학년,반,번호,성별,성적) ;
+	}
+}

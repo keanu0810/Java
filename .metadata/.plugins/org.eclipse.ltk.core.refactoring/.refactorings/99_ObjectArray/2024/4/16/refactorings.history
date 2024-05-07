@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.kh.practice.student.view.studentMenu.java&apos; to &apos;StudentMenu.java&apos;&#x0D;&#x0A;- Original project: &apos;99_ObjectArray&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.practice.student.view.studentMenu.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kh.practice.student.view.StudentMenu.java&apos;" description="Rename compilation unit &apos;studentMenu.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.kh.practice.student.view{studentMenu.java" name="StudentMenu.java" references="false" stamp="1713493162862" version="1.0"/>
+</session>

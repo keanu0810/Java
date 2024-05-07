@@ -1,0 +1,10 @@
+package sup2.controller;
+
+import java.util.Scanner;
+
+public class Test5sup2 {
+	public static void main(String[] args) {
+		Scanner ½ºÄ³³Ê = new Scanner(System.in);
+		
+	}
+}
